@@ -11,6 +11,6 @@
 </html>
 <?
 
-echo "Teste de php7";
+echo "Teste de php7 com seus novos comandos";
 
 ?>
